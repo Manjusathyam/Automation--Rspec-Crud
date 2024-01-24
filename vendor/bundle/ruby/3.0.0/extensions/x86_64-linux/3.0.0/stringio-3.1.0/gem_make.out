@@ -1,0 +1,15 @@
+current directory: /home/innobits/ROR/TaskManager/vendor/bundle/ruby/3.0.0/gems/stringio-3.1.0/ext/stringio
+/home/innobits/.rbenv/versions/3.0.4/bin/ruby -I /home/innobits/.rbenv/versions/3.0.4/lib/ruby/3.0.0 -r ./siteconf20240109-50137-lwfofl.rb extconf.rb
+creating Makefile
+
+current directory: /home/innobits/ROR/TaskManager/vendor/bundle/ruby/3.0.0/gems/stringio-3.1.0/ext/stringio
+make DESTDIR\= clean
+
+current directory: /home/innobits/ROR/TaskManager/vendor/bundle/ruby/3.0.0/gems/stringio-3.1.0/ext/stringio
+make DESTDIR\=
+compiling stringio.c
+linking shared-object stringio.so
+
+current directory: /home/innobits/ROR/TaskManager/vendor/bundle/ruby/3.0.0/gems/stringio-3.1.0/ext/stringio
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 stringio.so ./.gem.20240109-50137-2c8nbu
